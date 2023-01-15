@@ -9,3 +9,6 @@ Second, enter "python bev.py" to run the program.
 For task 2:
 First, enter "load_task2.py" to record the scene and the camera pose. The recored images would be stored in "./task2_data/color" for rgb images, "./task2_data/depth" for depth images and "./task2_data/camera_pose.csv" for camera pose. (For taking photos at Floor 1 or Floor 2, changing the values of parameters in code is needed).
 Second, enter "python reconstruct.py" to run the program.
+
+For the detail about the tasks, please check "HW1_spec.docx.pdf". 
+For the result and the explaination of the codes, please check "report.pdf".

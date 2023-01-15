@@ -2,7 +2,7 @@
 
 To run the code, simply enter "python hw3.py". 
 
-After the code starts to run, first, you will be asked to input the target lable.  
+After the code starts to run, first, you will be asked to input the target label.  
 ![](https://i.imgur.com/4vTkOLr.png)  
 You can enter "refrigerator", "rack", "cushion", "lamp" or "cooktop". Take "refrigerator" for example.  
 ![](https://i.imgur.com/41Z1u6b.png)  
@@ -19,6 +19,11 @@ After the agent complete the last action, the window will be closed automaticall
 ![](https://i.imgur.com/b9UTHJA.png)  
 ![](https://i.imgur.com/uV5X70r.png)  
 
+
+
+For the detail about the tasks, please check "Homework_3.pdf".  
+For the result and the explaination of the codes, please check "report.pdf".  
+The dome videos can be found in folder "/results".
 
 
 

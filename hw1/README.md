@@ -11,4 +11,5 @@ First, enter "load_task2.py" to record the scene and the camera pose. The recore
 Second, enter "python reconstruct.py" to run the program.
 
 For the detail about the tasks, please check "HW1_spec.docx.pdf". 
+
 For the result and the explaination of the codes, please check "report.pdf".

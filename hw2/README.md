@@ -9,5 +9,5 @@ For example, enter "python eval_multipro.py --gpus 0 --cfg config/my_ade20k-mobi
 
 For reconstructing the 3D environment, just type "python 3d_semantic_map.py". However, before running the program, we need to specify the filepath of the images which will be used in reconstruction manually.
 
-For the detail about the tasks, please check "HW2_spec.pdf".
+For the detail about the tasks, please check "HW2_spec.pdf".  
 For the result and the explaination of the codes, please check "report.pdf".

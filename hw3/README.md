@@ -23,7 +23,7 @@ After the agent complete the last action, the window will be closed automaticall
 
 For the detail about the tasks, please check "Homework_3.pdf".  
 For the result and the explaination of the codes, please check "report.pdf".  
-The dome videos can be found in folder "/results".
+The dome videos can be found in folder "/results". Please download them to watch them!
 
 
 
